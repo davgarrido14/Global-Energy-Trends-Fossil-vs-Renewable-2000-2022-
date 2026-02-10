@@ -1,9 +1,9 @@
-#Global Energy Trends: Fossil vs Renewable (2000–2022)
-Power BI Analysis & Data Visualization Project
+# Global Energy Trends: Fossil vs Renewable (2000–2022)
+### Power BI Analysis & Data Visualization Project
 
 This project explores how countries around the world have shifted their electricity generation from fossil fuels to renewable sources over the last two decades. Using Power BI, I built a set of visuals, DAX measures, and trend analyses to understand global patterns and highlight the progress of the energy transition.
 
-##🎯 Objectives
+## Objectives
 Compare fossil vs renewable electricity generation globally
 
 Analyze long‑term trends from 2000 to 2022
