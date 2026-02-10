@@ -66,6 +66,8 @@ Using medians gives a fair, stable representation of the typical country and mak
 
 ### The shift toward cleaner energy is real, but progress varies widely across regions.
 
+### Renewable energy adoption in 2021 shows a clear regional divide: North America and Europe & Central Asia lead with the highest renewable shares, while South Asia, East Asia & Pacific, and especially the Middle East & North Africa lag far behind, highlighting uneven progress in the global energy transition.
+
 ## Extra insight 2025 update
 
 <details>
