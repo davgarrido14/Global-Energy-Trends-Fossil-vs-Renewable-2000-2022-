@@ -113,9 +113,9 @@ Using medians gives a fair, stable representation of the typical country and mak
 </details>
 
 ## Repository Contents
-dashboard.pbix — Power BI file
+Energy.pbix — Power BI file
 
-data/ — [dataset or link to source](https://www.kaggle.com/datasets/nishant30488/global-renewable-and-fossil-fuel-energy?resource=download)
+data/ — [Kaggle](https://www.kaggle.com/datasets/nishant30488/global-renewable-and-fossil-fuel-energy?resource=download)
 
 screenshots/ — images of the dashboard
 
