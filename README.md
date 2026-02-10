@@ -15,16 +15,16 @@ Build country‑level comparisons using Top N filtering
 Create a clean, interactive Power BI dashboard suitable for portfolio presentation
 
 ## Key Visuals
-Global Median Trend Line (2000–2022)  
+### Global Median Trend Line (2000–2022)  
 Shows how the typical country’s fossil and renewable electricity shares evolved over time.
 
-Fossil vs Renewable (2021)  
+### Fossil vs Renewable (2021)  
 Country‑level comparison using DAX measures.
 
-Top 10 Countries  
+### Top 10 Countries  
 Highlights the leaders in renewable or fossil electricity using Power BI’s Top N filtering.
 
-Country Snapshot Table  
+### Country Snapshot Table  
 Displays raw values alongside calculated measures for validation.
 
 ## Core DAX Measures
@@ -113,7 +113,7 @@ Using medians gives a fair, stable representation of the typical country and mak
 ## Repository Contents
 dashboard.pbix — Power BI file
 
-data/ — dataset or link to source
+data/ — [dataset or link to source](https://www.kaggle.com/datasets/nishant30488/global-renewable-and-fossil-fuel-energy?resource=download)
 
 screenshots/ — images of the dashboard
 
