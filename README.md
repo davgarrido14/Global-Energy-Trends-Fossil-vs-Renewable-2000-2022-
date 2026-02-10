@@ -56,15 +56,59 @@ Energy data varies massively between countries. A few extreme values (e.g., coun
 Using medians gives a fair, stable representation of the typical country and makes year‑to‑year comparisons more meaningful.
 
 ## Insights Summary
-Fossil electricity has steadily declined since 2000.
+### Fossil electricity has steadily declined since 2000.
 
-Renewable electricity grew strongly until around 2014, then stabilized.
+### Renewable electricity grew strongly until around 2014, then stabilized.
 
-The global median shows that the typical country now relies less on fossil electricity than two decades ago.
+### The global median shows that the typical country now relies less on fossil electricity than two decades ago.
 
-Some countries (e.g., Uruguay) have extremely high renewable shares, showing rapid energy transitions.
+### Some countries (e.g., Uruguay) have extremely high renewable shares, showing rapid energy transitions.
 
-The shift toward cleaner energy is real, but progress varies widely across regions.
+### The shift toward cleaner energy is real, but progress varies widely across regions.
+
+## Extra insight 2025 update
+
+<details>
+  <summary>🌋 Top 10 Fossil‑Dependent Countries (2021) — 2025 Status Overview</summary>
+
+  
+## **Top 10 Fossil‑Dependent Countries (2021) — 2025 Status Table**
+
+| Country | Fossil % (2021) | Fossil % (2025, Official) | 2025 Trend | Notes |
+|--------|------------------|----------------------------|------------|-------|
+| **Comoros** | 100.00% | *Not published* | ⬇️ Decreasing | New World Bank solar projects (6.3 MWp) reducing diesel dependence. |
+| **Gibraltar** | 100.00% | *Not published* | ➡️ Stable | Still relies on diesel generation; limited renewable expansion. |
+| **Sint Maarten (Dutch part)** | 100.00% | *Not published* | ➡️ Stable | Electricity still mainly from diesel; renewable plans not yet large‑scale. |
+| **Turkmenistan** | 99.98% | *Not published* | ➡️ Stable | Electricity remains almost entirely natural gas; no major renewable shift. |
+| **Libya** | 99.97% | *Not published* | ➡️ Stable | Political instability slowed renewable development; grid still fossil‑based. |
+| **Bahrain** | 99.93% | *Not published* | ⬇️ Slight decrease | Solar expansion underway; fossil still dominant but diversification started. |
+| **Trinidad and Tobago** | 99.92% | *Not published* | ➡️ Stable | Electricity generation remains almost fully natural gas. |
+| **Brunei Darussalam** | 99.91% | *Not published* | ➡️ Stable | Still relies on natural gas; renewable projects remain small‑scale. |
+| **Kuwait** | 99.77% | *Not published* | ⬇️ Slight decrease | Solar mega‑projects (e.g., Shagaya) expanding, but fossil still primary. |
+| **Saudi Arabia** | 99.76% | *Not published* | ⬇️ Noticeable decrease | Rapid solar growth under Vision 2030; several GW‑scale plants active. |
+
+</details>
+
+<details>
+  <summary>🌱 Top 10 Renewable‑Dependent Countries (2021) — 2025 Status Overview</summary>
+
+  
+## **Top 10 Renewable‑Dependent Countries (2021) — 2025 Status Table**
+
+| Country | Renewable % (2021) | Renewable % (2025, Official) | 2025 Trend | Notes |
+|--------|----------------------|-------------------------------|------------|-------|
+| **Lesotho** | 99.79% | *Not published* | ➡️ Stable | Hydropower remains dominant; no major fossil expansion reported. |
+| **Costa Rica** | 99.37% | *Not published* | ➡️ Stable | Continues to generate nearly all electricity from renewables (hydro, wind, geothermal). |
+| **Norway** | 99.10% | *Not published* | ➡️ Stable | Hydropower still supplies almost all electricity; renewable share remains extremely high. |
+| **Central African Republic** | 96.47% | *Not published* | ➡️ Stable | Electricity system still small and hydro‑based; no major fossil growth. |
+| **El Salvador** | 95.56% | *Not published* | ⬆️ Increasing | Expanding geothermal and solar capacity; renewable share expected to rise. |
+| **Tajikistan** | 93.38% | *Not published* | ➡️ Stable | Hydropower continues to dominate; new dams under development. |
+| **Andorra** | 93.34% | *Not published* | ➡️ Stable | Imports most electricity from renewable‑heavy neighbors; mix remains stable. |
+| **Belize** | 92.86% | *Not published* | ➡️ Stable | Hydropower and biomass remain primary sources; renewable share steady. |
+| **Zambia** | 92.08% | *Not published* | ➡️ Stable | Hydropower remains the backbone; drought risk is the main challenge. |
+| **Angola** | 91.71% | *Not published* | ⬆️ Increasing | Large hydropower projects (e.g., Lauca) boosting renewable generation. |
+
+</details>
 
 ## Repository Contents
 dashboard.pbix — Power BI file
