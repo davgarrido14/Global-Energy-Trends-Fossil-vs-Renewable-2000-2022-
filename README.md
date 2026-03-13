@@ -3,6 +3,9 @@
 
 This project explores how countries around the world have shifted their electricity generation from fossil fuels to renewable sources over the last two decades. Using Power BI, I built a set of visuals, DAX measures, and trend analyses to understand global patterns and highlight the progress of the energy transition.
 
+## Data Limitations - important
+The dataset only provides percentage values for fossil and renewable electricity generation. Because there are no absolute figures (such as total electricity produced in GWh), it isn’t possible to calculate deeper metrics like total energy output, year‑over‑year growth in real units, or the scale of each country’s energy system. As a result, the analysis focuses on relative comparisons and trends, rather than full quantitative modeling.
+
 ## Objectives
 Compare fossil vs renewable electricity generation globally
 
